@@ -1,1 +1,1 @@
-# SCFHS
+"Deleting file content"
